@@ -7,7 +7,7 @@
 <p align="center">
   📬 How to reach me: <br/>
   <a href="mailto:aartirameshjagtap@gmail.com">aartirameshjagtap@gmail.com</a> | 
-  <a href="https://www.linkedin.com/in/aarti-jagtap" target="_blank" rel="noreferrer">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aarti-jagtap-a0133b28b?trk=public_profile_samename-profile" target="_blank" rel="noreferrer">LinkedIn</a>
 </p>
 
 <p align="center">
