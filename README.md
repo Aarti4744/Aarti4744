@@ -1,68 +1,30 @@
-<h1 align="center">Hi 👋, I'm Aarti Jagtap</h1>
-
+<h1 align="center">
+  Hey there! I'm <span style="color:#ff6b9d;">Aarti Jagtap</span>
+</h1>
+<h3 align="center">📱 Crafting Beautiful Mobile Experiences with Code ✨</h3>
 <p align="center">
-  I am an Android developer skilled in Kotlin and Flutter, passionate about building efficient, scalable mobile apps. With experience in Angular frontend development, I bring a strong UI/UX foundation and a commitment to delivering seamless user experiences while continuously learning and growing.
-</p>
-
-<p align="center">
-  📬 How to reach me: <br/>
-  <a href="mailto:aartirameshjagtap@gmail.com">aartirameshjagtap@gmail.com</a> | 
-  <a href="https://www.linkedin.com/in/aarti-jagtap-a0133b28b?trk=public_profile_samename-profile" target="_blank" rel="noreferrer">LinkedIn</a>
-</p>
-
-<p align="center">
-  💬 Ask me about Android development, Flutter, Kotlin, Angular, or UI/UX design!
-</p>
-
-<p align="center">
-  🚀 Currently learning: Prompt Engineering and DevOps
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Android+Developer;Open+Source+Enthusiast;Learning+Never+Stops!;Flutter+Developer;Kotlin+%7C+Java+%7C+Flutter+Lover" alt="Typing Animation" />
-</p>
-
-<!-- 👩‍💻 Girl Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Girl Coding" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarti4744&label=Profile%20views&color=0e75b6&style=flat" alt="aarti4744" />
+  <img src="https://komarev.com/ghpvc/?username=aarti4744&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### 📬 How to reach me:
+<img align="right" alt="Girl Coding" width="420" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-<p align="left" style="display: flex; gap: 10px;">
-  <a href="mailto:aartirameshjagtap@gmail.com" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/-aartirameshjagtap@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" 
-         alt="Email Badge"
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 8px rgba(209,72,54,0.5)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
-  </a>
-  <a href="https://www.linkedin.com/in/aarti-jagtap" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" 
-         alt="LinkedIn Badge"
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 8px rgba(0,119,181,0.5)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
-  </a>
-  <a href="https://github.com/aarti4744" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" 
-         alt="GitHub Badge"
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 8px rgba(24,23,23,0.5)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
-  </a>
-</p>
+### 👩‍💻 About Me
 
-
+- 🌱 Currently diving deep into **Prompt Engineering** and **DevOps**
+- 📱 Passionate about building efficient, scalable **Android** and **Flutter** apps
+- 🎨 Strong background in **Angular** frontend development with focus on **UI/UX**
+- 💬 Ask me anything about:
+  Android Development, Flutter, Kotlin, Angular, UI/UX Design
+- 📫 Reach me at: **aartirameshjagtap@gmail.com**
+- ☕ Fun Fact: I turn coffee into beautiful mobile apps and started my journey with HTML & CSS!
 
 ---
 
 ### 🛠️ Languages & Tools:
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -80,28 +42,37 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
 </p>
 
+---
+
+### 🔥 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aarti4744&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aarti4744&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarti4744&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 🤓 Fun Fact:
+### 🌐 Let's Connect
 
 <p align="center">
-  I started coding with HTML & CSS before diving into mobile app development! 🚀  
-  Also, I'm a big fan of coffee ☕ and coding late into the night! 🌙
+  <a href="mailto:aartirameshjagtap@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aarti-jagtap-a0133b28b?trk=public_profile_samename-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aarti4744" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarti4744&show_icons=true&theme=radical" alt="aarti4744 GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarti4744&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarti4744&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Android+Developer+%7C+Flutter+Enthusiast;UI%2FUX+Designer+%7C+Open+Source+Contributor;Learning+Never+Stops!;Building+the+Future%2C+One+App+at+a+Time+%F0%9F%9A%80" alt="Animated Quote" />
 </p>
